@@ -8,9 +8,9 @@ Deploy Portainer behind Traefik Proxy: https://docs.portainer.io/advanced/revers
 
 CONTAINERIZATION
      
-     PORTAINER
+PORTAINER
      
-     K8S
+K8S
 
 VIRTUALIZATION
    
