@@ -1,5 +1,9 @@
 A journey to the open source self-hosting world.
 
+1. CONTAINERIZATION
+2. VIRTUALIZATION
+3. DEVOPS
+
 1. CMDB
 2. DMS
 3. ERP
